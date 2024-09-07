@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: BTHS ACTION
-    url: https://www.bthsaction.org
+    url: https://bthsaction.org
 
 
 status-website:
@@ -15,7 +15,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "BTHS ACTION"
-  introMessage: Check uptime here
+  introMessage: Check the uptime here
   navbar:
     - title: Status
       href: /
