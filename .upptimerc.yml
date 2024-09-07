@@ -5,7 +5,7 @@ repo: status # The name of this repository
 sites:
   - name: BTHS ACTION
     url: https://bthsaction.org
-    icon: https://bthsaction.org/manifest-icon-192.maskable.png
+    icon: https://bthsaction.org/manifest-icon-512.maskable.png
 
 
 status-website:
@@ -14,7 +14,7 @@ status-website:
   cname: status.bthsaction.org
   # baseUrl: /your-repo-name
   logoUrl: https://bthsaction.org/manifest-icon-192.maskable.png
-  favicon: https://bthsaction.org/manifest-icon-192.maskable.png
+  favicon: https://bthsaction.org/manifest-icon-512.maskable.png
   name: Action Uptime
   introTitle: "BTHS ACTION"
   introMessage: Check the uptime here
