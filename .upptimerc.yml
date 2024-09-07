@@ -13,7 +13,8 @@ status-website:
   cname: status.bthsaction.org
   # baseUrl: /your-repo-name
   logoUrl: https://bthsaction.org/manifest-icon-192.maskable.png
-  name: ACTION Uptime
+  favicon: https://bthsaction.org/manifest-icon-192.maskable.png
+  name: Action Uptime
   introTitle: "BTHS ACTION"
   introMessage: Check the uptime here
   navbar:
