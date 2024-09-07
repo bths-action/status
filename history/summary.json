@@ -2,7 +2,7 @@
   {
     "name": "BTHS ACTION",
     "url": "https://bthsaction.org",
-    "icon": "https://bthsaction.org/manifest-icon-192.maskable.png",
+    "icon": "https://bthsaction.org/manifest-icon-512.maskable.png",
     "slug": "bths-action",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "time": 338,
+    "timeDay": 338,
+    "timeWeek": 338,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   }
 ]
