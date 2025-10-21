@@ -6,17 +6,16 @@
     "slug": "bths-action",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 427,
-    "timeDay": 1556,
-    "timeWeek": 972,
-    "timeMonth": 558,
+    "timeDay": 1562,
+    "timeWeek": 991,
+    "timeMonth": 563,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2025-10-20": 9,
       "2025-07-24": 19,
       "2024-10-22": 24
     }
